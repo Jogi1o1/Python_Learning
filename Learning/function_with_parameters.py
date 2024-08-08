@@ -8,3 +8,4 @@ def divyam(greet):
     print(f"QA from pod1 {greet}")
 
 divyam("mate")
+

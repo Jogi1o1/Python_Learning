@@ -77,3 +77,5 @@ print(" ".join(list_1))
 
 # string.replace("value_1","value_2") method will replace value_1 in the string to value_2
 print(var.replace("woRLd","thERe"))
+
+
